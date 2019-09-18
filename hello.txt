@@ -1,5 +1,7 @@
 Hi Man!
 Hello Girl!
 How are you?
-My name is limei
-My name is Hanmeimei
+My name is limei.
+My name is Hanmeimei.
+How old are you?
+I am 24.
